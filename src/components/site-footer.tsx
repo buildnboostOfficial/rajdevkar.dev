@@ -16,11 +16,11 @@ export function SiteFooter() {
           Built by{" "}
           <a
             className="link transition-[color] hover:text-foreground"
-            href="https://x.com/iamncdai"
+            href="https://github.com/rajdevkar"
             target="_blank"
             rel="noopener"
           >
-            ncdai
+            rajdevkar
           </a>
           . The source code is available on{" "}
           <a
@@ -49,19 +49,7 @@ export function SiteFooter() {
 
             <a
               className="flex items-center text-muted-foreground transition-[color] hover:text-foreground"
-              href="https://x.com/iamncdai?utm_source=chanhdai.com"
-              target="_blank"
-              rel="noopener"
-            >
-              <Icons.x className="size-4" />
-              <span className="sr-only">X</span>
-            </a>
-
-            <Separator />
-
-            <a
-              className="flex items-center text-muted-foreground transition-[color] hover:text-foreground"
-              href="https://github.com/ncdai?utm_source=chanhdai.com"
+              href="https://github.com/rajdevkar?utm_source=rajdevkar.dev"
               target="_blank"
               rel="noopener"
             >
@@ -73,7 +61,7 @@ export function SiteFooter() {
 
             <a
               className="flex items-center text-muted-foreground transition-[color] hover:text-foreground"
-              href="https://www.linkedin.com/in/ncdai?utm_source=chanhdai.com"
+              href="https://www.linkedin.com/in/rajdevkar?utm_source=rajdevkar.dev"
               target="_blank"
               rel="noopener"
             >

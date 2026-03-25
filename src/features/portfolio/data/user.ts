@@ -1,66 +1,49 @@
 import type { User } from "@/features/portfolio/types/user"
 
 export const USER: User = {
-  firstName: "Chánh Đại",
-  lastName: "Nguyễn",
-  displayName: "Chánh Đại",
-  username: "ncdai",
+  firstName: "Raj",
+  lastName: "Devkar",
+  displayName: "Raj Devkar",
+  username: "rajdevkar",
   gender: "male",
   pronouns: "he/him",
-  bio: "Creating with code. Small details matter.",
+  bio: "I develop web and mobile applications using React Native, React JS, Laravel, Vue JS, with expertise in Tailwind CSS, MySQL, MongoDB, Firebase, GraphQL, and REST APIs.",
   flipSentences: [
-    "Creating with code. Small details matter.",
-    "Design Engineer",
-    "Open Source Contributor",
+    "I develop web and mobile applications.",
+    "Senior Frontend Developer",
+    "React Native Expert",
   ],
-  address: "Ho Chi Minh City, Viet Nam",
-  phoneNumber: "Kzg0Nzc3ODg4MTQ4", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
-  email: "ZGFpQGNoYW5oZGFpLmNvbQ==", // base64 encoded
-  website: "https://chanhdai.com",
-  jobTitle: "Design Engineer",
+  address: "Dombivli, Maharashtra, India",
+  phoneNumber: "KzkxODA5NzQ2MTk1Nw==", // E.164 format, base64 encoded
+  email: "cmFqZGV2a2FyLjZAZ21haWwuY29t", // base64 encoded
+  website: "https://rajdevkar.dev",
+  jobTitle: "Senior Frontend Developer",
   jobs: [
     {
-      title: "Design Engineer",
-      company: "shadcncraft",
-      website: "https://shadcncraft.com",
-      experienceId: "shadcncraft",
-    },
-    {
-      title: "Founder",
-      company: "Quaric",
-      website: "https://quaric.com",
-      experienceId: "quaric",
+      title: "Senior Frontend Developer",
+      company: "Publicis Groupe",
+      website: "https://www.publicisgroupe.com",
+      experienceId: "publicis-groupe",
     },
   ],
   about: `
-- **Design Engineer** with 5+ years of experience, known for pixel-perfect execution and strong attention to small details.
-- Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
-- Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
-- Creator of [ZaDark](https://zadark.com) (2022): enhances the Zalo experience on PC & Web
-  - 80k+ downloads on [SourceForge](https://sourceforge.net/projects/zadark)*
-  - 30k+ active users on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob)*
-- Creator of [React Wheel Picker](https://react-wheel-picker.chanhdai.com): iOS-like wheel picker with inertia scrolling & infinite loop
-  - 12k+ weekly downloads on [npm](https://www.npmjs.com/package/@ncdai/react-wheel-picker)*
-  - [▲Vercel OSS Program](https://vercel.com/blog/summer-2025-oss-program#react-wheel-picker) summer 2025 cohort
-
-<p class="text-muted-foreground">* Peak metrics recorded; actual current figures may vary.</p>
+- **Senior Frontend Developer** with 7+ years of experience building web and mobile applications with strong attention to detail.
+- Skilled in **React.js**, **React Native**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
+- Experienced in leading teams, mentoring junior developers, and delivering scalable, high-performance solutions.
+- Proficient in **Laravel**, **Vue.js**, **GraphQL**, **REST APIs**, and databases like **MySQL**, **MongoDB**, and **Firebase**.
 `,
-  avatar: "https://assets.chanhdai.com/images/chanhdai-avatar-ghibli.webp",
-  ogImage:
-    "https://assets.chanhdai.com/images/screenshot-og-image-dark.png?v=7",
-  namePronunciationUrl: "https://assets.chanhdai.com/audio/chanhdai.mp3?v=3",
-  timeZone: "Asia/Ho_Chi_Minh",
+  avatar: "https://github.com/rajdevkar.png",
+  ogImage: "https://github.com/rajdevkar.png",
+  namePronunciationUrl: "",
+  timeZone: "Asia/Kolkata",
   keywords: [
-    "ncdai",
-    "nguyenchanhdai",
-    "nguyen chanh dai",
-    "chanhdai",
-    "chanh dai",
-    "iamncdai",
-    "quaric",
-    "zadark",
-    "nguyễn chánh đại",
-    "chánh đại",
+    "rajdevkar",
+    "raj devkar",
+    "react native developer",
+    "senior frontend developer",
+    "full stack developer",
+    "react developer",
+    "laravel developer",
   ],
-  dateCreated: "2023-10-20", // YYYY-MM-DD
+  dateCreated: "2024-01-01",
 }

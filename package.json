@@ -1,24 +1,24 @@
 {
-  "name": "chanhdai.com",
+  "name": "rajdevkar.dev",
   "version": "0.1.0",
-  "description": "A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.",
-  "homepage": "https://chanhdai.com",
+  "description": "Raj Devkar - Senior Frontend Developer Portfolio",
+  "homepage": "https://rajdevkar.dev",
   "license": "MIT",
   "author": {
-    "name": "Nguyen Chanh Dai",
-    "email": "dai@chanhdai.com",
-    "url": "https://github.com/ncdai"
+    "name": "Raj Devkar",
+    "email": "rajdevkar.6@gmail.com",
+    "url": "https://github.com/rajdevkar"
   },
   "contributors": [
     {
-      "name": "Nguyen Chanh Dai",
-      "email": "dai@chanhdai.com",
-      "url": "https://github.com/ncdai"
+      "name": "Raj Devkar",
+      "email": "rajdevkar.6@gmail.com",
+      "url": "https://github.com/rajdevkar"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ncdai/chanhdai.com.git"
+    "url": "git+https://github.com/rajdevkar/rajdevkar.dev.git"
   },
   "scripts": {
     "dev": "portless ncdai next dev",
