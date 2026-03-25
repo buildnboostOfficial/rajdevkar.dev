@@ -32,9 +32,10 @@ export const USER: User = {
 - Experienced in leading teams, mentoring junior developers, and delivering scalable, high-performance solutions.
 - Proficient in **Laravel**, **Vue.js**, **GraphQL**, **REST APIs**, and databases like **MySQL**, **MongoDB**, and **Firebase**.
 `,
-  avatar: "https://github.com/rajdevkar.png",
-  ogImage: "https://github.com/rajdevkar.png",
-  namePronunciationUrl: "",
+  avatar: "https://assets.chanhdai.com/images/chanhdai-avatar-ghibli.webp",
+  ogImage:
+    "https://assets.chanhdai.com/images/screenshot-og-image-dark.png?v=8",
+  namePronunciationUrl: "https://assets.chanhdai.com/audio/chanhdai.mp3?v=3",
   timeZone: "Asia/Kolkata",
   keywords: [
     "rajdevkar",
